@@ -721,6 +721,9 @@ margin:0 auto;
 =============================*/
 
 @media (min-width: 200px) and (max-width: 768px) {
+    .custom-nav.stickyadd .navbar-nav li a {
+        color: #ff8856 !important;
+    }
     .vanish{display:none;}
     .about-title{
         text-align:center;
